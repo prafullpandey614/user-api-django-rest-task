@@ -1,7 +1,7 @@
 # user-api-django-rest-task
 
-This is How it looks!
-[Screenshot (344)](https://user-images.githubusercontent.com/81959129/196003038-ad8815a6-fe81-4342-8bcc-5d0964e42a11.png)
+This is How it looks
+![Screenshot (344)](https://user-images.githubusercontent.com/81959129/196003038-ad8815a6-fe81-4342-8bcc-5d0964e42a11.png)
 
 ![Screenshot (351)](https://user-images.githubusercontent.com/81959129/196002991-709638d2-d7ed-4bd7-86fc-9767654e5095.png) 
 
@@ -16,3 +16,6 @@ This is How it looks!
 ![Screenshot (346)](https://user-images.githubusercontent.com/81959129/196003027-1482d1dc-76c5-4b38-b745-1a495a881dbd.png)
 
 ![Screenshot (345)](https://user-images.githubusercontent.com/81959129/196003033-cff452c3-0447-469f-b5d4-a58f1b71a186.png)
+
+Deleted Friendship
+![Screenshot (352)](https://user-images.githubusercontent.com/81959129/196003256-59ccfbf0-07b4-4442-ab83-73904ea08257.png)
